@@ -1,0 +1,7 @@
+Star Wars::null::null::null::Good::Disney
+Sonic 3::2023::PG::Carey::Excellent::Universal
+Ten Commandments::1956::PG::DeMille::Good::RCA
+Craft::null::null::null::Good::Universal
+tttt::dddd::null::null::nnnn::sssss
+Title::Date::Rating::Name::User::Studio
+American Pie::2001::R::Smith::Good::Fox
